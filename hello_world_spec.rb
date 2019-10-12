@@ -1,5 +1,5 @@
-describe 'Hello worldefdg' do
+describe 'Hello world' do
   it 'returns "Hello world"' do
-    expect('Hello world zerfsd sdg c').to eq('Hello world')
+    expect('Hello world').to eq('Hello world')
   end
 end
